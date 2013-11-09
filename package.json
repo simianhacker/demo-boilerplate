@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "less-middleware": "*",
+    "gulp": "~2.2.0",
+    "mongoose": "~3.8.0",
+    "seedling": "0.0.5",
+    "goosestrap": "0.0.3",
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1"
+  }
+}
